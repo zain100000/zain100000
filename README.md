@@ -1,14 +1,5 @@
 # Hi there, I'm Muhammad Zain-ul-Abideen! 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-270581272" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:zabideen639@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
-
 ### 👤 About Me
 I am a final-semester **Computer Science Master’s student** and **Junior Mobile & Web Application Developer** based in Pakistan. I specialize in building high-performance, cross-platform mobile apps using React Native and developing scalable full-stack web architectures within the MERN ecosystem.
 
@@ -27,15 +18,6 @@ I am a final-semester **Computer Science Master’s student** and **Junior Mobil
 | **Frontend Web** | `JavaScript (ES6+)` • `React.js` • `HTML5` • `CSS3` • `Bootstrap` |
 | **Backend & Databases** | `Node.js` • `Express.js` • `MongoDB` • `RESTful APIs` |
 | **Dev Tools & Platforms** | `Git` • `GitHub` • `VS Code` • `Postman` |
-
----
-
-### 📈 GitHub Ecosystem
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zain100000&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Zain's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain100000&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
 ---
 
 ### ⚡ Contact & Collaboration
