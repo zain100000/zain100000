@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Zain-ul-Abideen! 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/muhammad-zain-ul-abideen-270581272" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-zain-ul-abideen-270581272" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:zabideen639@gmail.com">
