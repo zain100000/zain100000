@@ -3,7 +3,6 @@
 ### 👤 About Me
 I am a final-semester **Computer Science Master’s student** and **Junior Mobile & Web Application Developer** based in Pakistan. I specialize in building high-performance, cross-platform mobile apps using React Native and developing scalable full-stack web architectures within the MERN ecosystem.
 
-* 🌍 **Visa Status:** Seeking remote full-time/part-time opportunities (Available for offshore independent contractor work with flexible hours to align with Australian Eastern Standard Time).
 * 📱 **Mobile Development:** Focused on crafting elegant, interactive, and optimized native user experiences.
 * ⚙️ **Backend Engineering:** Experienced in building secure backend components, setting up clean database schemas, and integrating RESTful APIs.
 * 🤝 **Development Philosophy:** Passionate about clean code practices, modular folder architecture, and agile, cross-functional team collaboration.
